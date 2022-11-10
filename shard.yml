@@ -1,0 +1,13 @@
+name: return-type-mismatch-bug
+version: 0.1.0
+
+authors:
+  - Yassen Damyanov <yd@itlabs.bg>
+
+targets:
+  return-type-mismatch-bug:
+    main: src/return-type-mismatch-bug.cr
+
+crystal: 1.6.1
+
+license: MIT
